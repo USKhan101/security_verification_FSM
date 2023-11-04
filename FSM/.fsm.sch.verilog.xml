@@ -1,0 +1,14 @@
+<Command name="schRTLInfo"  delimiter="."  >
+<RTLBlock >
+<RTLInfo   name="state_r_0"  type="2"  fileName="./FSM_V3/fsm_3.v"  >
+    <Seg beginLine="28"  endLine="63"  />
+  </RTLInfo>
+<Instance name="fsm_tb_3.DUT"  />
+</RTLBlock>
+<RTLBlock >
+<RTLInfo   name="current_out_1"  type="2"  fileName="./FSM_V3/fsm_3_tb.sv"  >
+    <Seg beginLine="56"  endLine="97"  />
+  </RTLInfo>
+<Instance name="fsm_tb_3"  />
+</RTLBlock>
+</Command>
